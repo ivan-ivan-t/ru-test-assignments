@@ -156,3 +156,4 @@
     * 2018
       * Весна ([#1](https://github.com/yandex-shri-2018/entrance-task-1), [#2](https://github.com/yandex-shri-2018/entrance-task-2))
       * Осень ([#1](https://github.com/yandex-shri-2018/entrance-task-1-2), [#2](https://github.com/yandex-shri-2018/entrance-task-2-2), [#3](https://github.com/yandex-shri-2018/entrance-task-3-2))
+Мои изменения
